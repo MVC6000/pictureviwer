@@ -1,0 +1,10 @@
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\bin\Debug\PictureViewerSpiridonov.exe.config
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\bin\Debug\PictureViewerSpiridonov.exe
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\bin\Debug\PictureViewerSpiridonov.pdb
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.csproj.AssemblyReference.cache
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.Form1.resources
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.Properties.Resources.resources
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.csproj.GenerateResource.cache
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.csproj.CoreCompileInputs.cache
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.exe
+C:\Users\29394448\Desktop\PictureViewerSpiridonov\obj\Debug\PictureViewerSpiridonov.pdb
